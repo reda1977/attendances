@@ -1,7 +1,0 @@
-## Attendances
-
-Attendances
-
-#### License
-
-MIT
